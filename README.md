@@ -22,4 +22,5 @@ resbalon pequeño 15% -2 pasos
 No es necesario indicar lo que ocurrió, solo actualizar la posición (es decir, no decir Se resbalo o durmio, etc).
 
 --Esta actividad Fue realizada por el alumno: 
+
 -Santana Robles David Alejandro 3°-i
