@@ -7,15 +7,24 @@ En cada oportunidad se mostrara la posición de cada corredor
 
 El avance en cada caso es así
 Tortuga ->
+
 paso rapido 50% +3pasos
+
 resbalon 20% -6 pasos
+
 paso lento 30% +1 paso
 
+
 Liebre
+
 domir 20% 0 avance
+
 salto grande 20% +9 pasos
+
 resbalon grande 10 -12 pasos
+
 salto pequeño 35 % +1 paso
+
 resbalon pequeño 15% -2 pasos
 
 
